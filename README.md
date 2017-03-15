@@ -1,2 +1,3 @@
 # hello-world
 I am setting up my first repository if that isn't obvious... 
+I am learning code.. 
